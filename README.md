@@ -4,4 +4,4 @@ This script will help you to check a link from your terminal using virustotal ap
 
 
 to Run
-python3 app.py URL 
+python3 VTScan.py URL 
