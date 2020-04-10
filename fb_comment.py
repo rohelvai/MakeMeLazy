@@ -3,7 +3,7 @@
 '''
 
 make .env file and write this 2 lines
-f_user = null.rudra
+f_user = username
 f_pass = password
 '''
 
